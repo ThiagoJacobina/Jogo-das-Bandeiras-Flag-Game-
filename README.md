@@ -112,7 +112,7 @@ lib/
 
 ## 🎥 Vídeo Demonstrativo e Apresentação
 
-- 📹 **[Link para o Vídeo de Demonstração no YouTube / Drive](https://youtube.com/LINK_DO_SEU_VIDEO)**
+- 📹 **[Link para o Vídeo de Demonstração no YouTube / Drive]()**
 
 ---
 
