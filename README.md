@@ -10,7 +10,10 @@ O **Flag Game** é um aplicativo mobile interativo desenvolvido no framework **F
 
 ## Capturas de Tela
 
-*(Adicione aqui as capturas de tela ou GIFs do seu app em funcionamento)*
+*<img width="300" height="500" alt="Captura de tela 2026-11-05 161301 - Copia" src="https://github.com/user-attachments/assets/74ef0311-45e4-444e-be5a-7a0780c843ef" />*
+*<img width="300" height="500" alt="Captura de tela 2026-11-05 161314" src="https://github.com/user-attachments/assets/631a4166-ceb7-4423-894d-2902a91d2ac9" />*
+*<img width="300" height="500" alt="Captura de tela 2026-11-05 161715" src="https://github.com/user-attachments/assets/7b4089a8-0713-44de-a1d1-314f25543974" />*
+
 
 ---
 
