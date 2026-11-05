@@ -90,7 +90,7 @@ lib/
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/flag-game.git
+   git clone https://github.com/ThiagoJacobina/Jogo-das-Bandeiras-Flag-Game.git
    ```
 
 2. **Acessar o Diretório do Projeto:**
@@ -110,14 +110,6 @@ lib/
 
 ---
 
-## Como Baixar o Executável / Código Compactado
-
-Você pode baixar a versão pronta para execução ou o pacote em formato `.zip`:
-
-- ⬇️ **[Baixar Código Fonte (.zip) e Releases](https://github.com/SEU_USUARIO/flag-game/releases/latest)**
-
----
-
 ## 🎥 Vídeo Demonstrativo e Apresentação
 
 - 📹 **[Link para o Vídeo de Demonstração no YouTube / Drive](https://youtube.com/LINK_DO_SEU_VIDEO)**
@@ -126,4 +118,4 @@ Você pode baixar a versão pronta para execução ou o pacote em formato `.zip`
 
 ## ✒️ Autor
 
-Desenvolvido por **[Seu Nome Aqui]** como parte do Desafio Acadêmico da disciplina de **Dispositivos Móveis**.
+Desenvolvido por **Thiago Morais Jacobina** como parte do Desafio Acadêmico da disciplina de **Dispositivos Móveis**.
